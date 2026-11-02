@@ -1,0 +1,4 @@
+semester,course_code,course_name,credits,syllabus,status
+1,MA101,Engineering Mathematics I,4,"Matrices; calculus; differential equations",Completed
+1,PH101,Engineering Physics,4,"Waves; optics; semiconductors",Completed
+3,CS301,Data Structures,4,"Stacks; queues; trees; graphs",In Progress
